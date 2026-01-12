@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ロングスカートは靡いて",
+  "base_artist": "Conton Candy",
+  "createdAt": "2026-01-12T12:00:57.689835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロングスカートは靡いて",
+      "artist": "Conton Candy",
+      "has_synced": true,
+      "path": "select/01_ロングスカートは靡いて_Conton_Candy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロングスカートは靡いて",
+      "artist": "Conton Candy",
+      "has_synced": false,
+      "path": "select/02_ロングスカートは靡いて_Conton_Candy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロングスカートは靡いて",
+      "artist": "Conton Candy",
+      "has_synced": false,
+      "path": "select/pl_01_ロングスカートは靡いて_Conton_Candy.txt"
+    }
+  ]
+}
